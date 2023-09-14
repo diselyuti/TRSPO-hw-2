@@ -1,0 +1,13 @@
+/Users/anatolykot/RiderProjects/Pi/Pi/obj/Debug/Pi.csproj.AssemblyReference.cache
+/Users/anatolykot/RiderProjects/Pi/Pi/obj/Debug/Pi.csproj.CoreCompileInputs.cache
+/Users/anatolykot/RiderProjects/Pi/Pi/bin/Debug/Pi.exe
+/Users/anatolykot/RiderProjects/Pi/Pi/bin/Debug/Pi.pdb
+/Users/anatolykot/RiderProjects/Pi/Pi/obj/Debug/Pi.exe
+/Users/anatolykot/RiderProjects/Pi/Pi/obj/Debug/Pi.pdb
+C:\Users\dimas\Source\Repos\Pi\Pi\bin\Debug\Pi.exe
+C:\Users\dimas\Source\Repos\Pi\Pi\bin\Debug\Pi.pdb
+C:\Users\dimas\Source\Repos\Pi\Pi\obj\Debug\Pi.csproj.AssemblyReference.cache
+C:\Users\dimas\Source\Repos\Pi\Pi\obj\Debug\Pi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimas\Source\Repos\Pi\Pi\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Source\Repos\Pi\Pi\obj\Debug\Pi.exe
+C:\Users\dimas\Source\Repos\Pi\Pi\obj\Debug\Pi.pdb
